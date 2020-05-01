@@ -53,9 +53,9 @@ function secondFunction(event){
     secondVariable = event.target;
     secondEffect = !secondEffect;
 if(!secondEffect){
-    twoP1.innerHTML = "Musli with Apple & Banana";
-    twoP2.innerHTML = "Rice with Lensel or etc...";
-    twoP3.innerHTML = "Soupe / bread";
+    twoP1.innerHTML = "Cereals with Apple & Banana";
+    twoP2.innerHTML = "Chili wraps / Felafel wraps";
+    twoP3.innerHTML = "Pizza";
     day2.style.background = "rgba(75,7,36, .5)";
     day2.style.borderBottom = "5px solid silver";
     day2.style.background = "rgba(75,7,36, .5)";
@@ -90,9 +90,9 @@ function thirdFunction(event){
     thirdVariable = event.target;
     thirdEffect = !thirdEffect;
 if(!thirdEffect){
-    threeP1.innerHTML = "Musli with Apple & Banana";
-    threeP2.innerHTML = "Rice with Lensel or etc...";
-    threeP3.innerHTML = "Soupe / bread";
+    threeP1.innerHTML = "Cereals with Apple & Banana";
+    threeP2.innerHTML = "Quiche .../ Quiche Lorraine";
+    threeP3.innerHTML = "Spaghetti";
     day3.style.background = "rgba(75,7,36, .5)";
     day3.style.borderBottom = "5px solid silver";
     day3.style.background = "rgba(75,7,36, .5)";
