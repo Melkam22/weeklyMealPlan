@@ -276,7 +276,13 @@ if(!seventhEffect){
     day7_2.style.color = "white";
     day7_2.style.padding = "0px 20px";
 } else if(seventhEffect){
-    document.location.reload();
+    //document.location.reload();
+    sevenP1.innerHTML = "Sunday Breakfast";
+    sevenP2.innerHTML = "Sunday Lunch";
+    sevenP3.innerHTML = "Sunday Dinner";
+    day7.style.background = "rgba(33,3,74,.5)";
+    day7_1.style.background = "rgba(33,3,74,.5)";
+    day7_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 
