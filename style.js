@@ -23,14 +23,17 @@ if(!firstEffect){
     day1.style.borderBottom = "5px solid silver";
     day1.style.background = "rgba(75,7,36, .5)";
     day1.style.color = "white";
+    day1.style.padding = "0px 20px";
     day1_1.style.background = "rgba(75,7,36, .5)";
     day1_1.style.borderBottom = "5px solid silver";
     day1_1.style.background = "rgba(75,7,36, .5)";
     day1_1.style.color = "white";
+    day1_1.style.padding = "0px 20px";
     day1_2.style.background = "rgba(75,7,36, .5)";
     day1_2.style.borderBottom = "5px solid silver";
     day1_2.style.background = "rgba(75,7,36, .5)";
     day1_2.style.color = "white";
+    day1_2.style.padding = "0px 20px";
 } else if(firstEffect){
     document.location.reload();
 }
@@ -60,14 +63,17 @@ if(!secondEffect){
     day2.style.borderBottom = "5px solid silver";
     day2.style.background = "rgba(75,7,36, .5)";
     day2.style.color = "white";
+    day2.style.padding = "0px 20px";
     day2_1.style.background = "rgba(75,7,36, .5)";
     day2_1.style.borderBottom = "5px solid silver";
     day2_1.style.background = "rgba(75,7,36, .5)";
     day2_1.style.color = "white";
+    day2_1.style.padding = "0px 20px";
     day2_2.style.background = "rgba(75,7,36, .5)";
     day2_2.style.borderBottom = "5px solid silver";
     day2_2.style.background = "rgba(75,7,36, .5)";
     day2_2.style.color = "white";
+    day2_2.style.padding = "0px 20px";
 } else if(secondEffect){
     document.location.reload();
 }
@@ -97,14 +103,17 @@ if(!thirdEffect){
     day3.style.borderBottom = "5px solid silver";
     day3.style.background = "rgba(75,7,36, .5)";
     day3.style.color = "white";
+    day3.style.padding = "0px 20px";
     day3_1.style.background = "rgba(75,7,36, .5)";
     day3_1.style.borderBottom = "5px solid silver";
     day3_1.style.background = "rgba(75,7,36, .5)";
     day3_1.style.color = "white";
+    day3_1.style.padding = "0px 20px";
     day3_2.style.background = "rgba(75,7,36, .5)";
     day3_2.style.borderBottom = "5px solid silver";
     day3_2.style.background = "rgba(75,7,36, .5)";
     day3_2.style.color = "white";
+    day3_2.style.padding = "0px 20px";
 } else if(thirdEffect){
     document.location.reload();
 }
@@ -134,14 +143,17 @@ if(!fourthEffect){
     day4.style.borderBottom = "5px solid silver";
     day4.style.background = "rgba(75,7,36, .5)";
     day4.style.color = "white";
+    day4.style.padding = "0px 20px";
     day4_1.style.background = "rgba(75,7,36, .5)";
     day4_1.style.borderBottom = "5px solid silver";
     day4_1.style.background = "rgba(75,7,36, .5)";
     day4_1.style.color = "white";
+    day4_1.style.padding = "0px 20px";
     day4_2.style.background = "rgba(75,7,36, .5)";
     day4_2.style.borderBottom = "5px solid silver";
     day4_2.style.background = "rgba(75,7,36, .5)";
     day4_2.style.color = "white";
+    day4_2.style.padding = "0px 20px";
 } else if(fourthEffect){
     document.location.reload();
 }
@@ -171,14 +183,17 @@ if(!fivthEffect){
     day5.style.borderBottom = "5px solid silver";
     day5.style.background = "rgba(75,7,36, .5)";
     day5.style.color = "white";
+    day5.style.padding = "0px 20px";
     day5_1.style.background = "rgba(75,7,36, .5)";
     day5_1.style.borderBottom = "5px solid silver";
     day5_1.style.background = "rgba(75,7,36, .5)";
     day5_1.style.color = "white";
+    day5_1.style.padding = "0px 20px";
     day5_2.style.background = "rgba(75,7,36, .5)";
     day5_2.style.borderBottom = "5px solid silver";
     day5_2.style.background = "rgba(75,7,36, .5)";
     day5_2.style.color = "white";
+    day5_2.style.padding = "0px 20px";
 } else if(fivthEffect){
     document.location.reload();
 }
@@ -208,14 +223,17 @@ if(!sixthEffect){
     day6.style.borderBottom = "5px solid silver";
     day6.style.background = "rgba(75,7,36, .5)";
     day6.style.color = "white";
+    day6.style.padding = "0px 20px";
     day6_1.style.background = "rgba(75,7,36, .5)";
     day6_1.style.borderBottom = "5px solid silver";
     day6_1.style.background = "rgba(75,7,36, .5)";
     day6_1.style.color = "white";
+    day6_1.style.padding = "0px 20px";
     day6_2.style.background = "rgba(75,7,36, .5)";
     day6_2.style.borderBottom = "5px solid silver";
     day6_2.style.background = "rgba(75,7,36, .5)";
     day6_2.style.color = "white";
+    day6_2.style.padding = "0px 20px";
 } else if(sixthEffect){
     document.location.reload();
 }
@@ -246,14 +264,17 @@ if(!seventhEffect){
     day7.style.borderBottom = "5px solid silver";
     day7.style.background = "rgba(75,7,36, .5)";
     day7.style.color = "white";
+    day7.style.padding = "0px 20px";
     day7_1.style.background = "rgba(75,7,36, .5)";
     day7_1.style.borderBottom = "5px solid silver";
     day7_1.style.background = "rgba(75,7,36, .5)";
     day7_1.style.color = "white";
+    day7_1.style.padding = "0px 20px";
     day7_2.style.background = "rgba(75,7,36, .5)";
     day7_2.style.borderBottom = "5px solid silver";
     day7_2.style.background = "rgba(75,7,36, .5)";
     day7_2.style.color = "white";
+    day7_2.style.padding = "0px 20px";
 } else if(seventhEffect){
     document.location.reload();
 }
