@@ -127,9 +127,9 @@ function fourthFunction(event){
     fourthVariable = event.target;
     fourthEffect = !fourthEffect;
 if(!fourthEffect){
-    fourP1.innerHTML = "Musli with Apple & Banana";
-    fourP2.innerHTML = "Rice with Lensel or etc...";
-    fourP3.innerHTML = "Soupe / bread";
+    fourP1.innerHTML = "Cereals with Apple & Banana";
+    fourP2.innerHTML = "Injera or Bread With various sauces";
+    fourP3.innerHTML = "Home made ravioli";
     day4.style.background = "rgba(75,7,36, .5)";
     day4.style.borderBottom = "5px solid silver";
     day4.style.background = "rgba(75,7,36, .5)";
@@ -164,9 +164,9 @@ function fivthFunction(event){
     fivthVariable = event.target;
     fivthEffect = !fivthEffect;
 if(!fivthEffect){
-    fiveP1.innerHTML = "Musli with Apple & Banana";
-    fiveP2.innerHTML = "Rice with Lensel or etc...";
-    fiveP3.innerHTML = "Soupe / bread";
+    fiveP1.innerHTML = "Cereals with Apple & Banana";
+    fiveP2.innerHTML = "Schupfnudel with vegetables and mushroom";
+    fiveP3.innerHTML = "Go out (Indian-food)";
     day5.style.background = "rgba(75,7,36, .5)";
     day5.style.borderBottom = "5px solid silver";
     day5.style.background = "rgba(75,7,36, .5)";
@@ -201,9 +201,9 @@ function sixthFunction(event){
     sixthVariable = event.target;
     sixthEffect = !sixthEffect;
 if(!sixthEffect){
-    sixP1.innerHTML = "Musli with Apple & Banana";
-    sixP2.innerHTML = "Rice with Lensel or etc...";
-    sixP3.innerHTML = "Soupe / bread";
+    sixP1.innerHTML = "Bread with cheese, jam, jelly ...";
+    sixP2.innerHTML = "Improvise / Go out";
+    sixP3.innerHTML = "Go out (Vietnamese or Burger)";
     day6.style.background = "rgba(75,7,36, .5)";
     day6.style.borderBottom = "5px solid silver";
     day6.style.background = "rgba(75,7,36, .5)";
@@ -239,9 +239,9 @@ function seventhFunction(event){
     seventhVariable = event.target;
     seventhEffect = !seventhEffect;
 if(!seventhEffect){
-    sevenP1.innerHTML = "Musli with Apple & Banana";
-    sevenP2.innerHTML = "Rice with Lensel or etc...";
-    sevenP3.innerHTML = "Soupe / bread";
+    sevenP1.innerHTML = "Bread with cheese, jam, jelly ...";
+    sevenP2.innerHTML = "Improvise / Go out";
+    sevenP3.innerHTML = "Penne with desired sauce.";
     day7.style.background = "rgba(75,7,36, .5)";
     day7.style.borderBottom = "5px solid silver";
     day7.style.background = "rgba(75,7,36, .5)";
