@@ -16,9 +16,9 @@ function firstFunction(event){
     firstVariable = event.target;
     firstEffect = !firstEffect;
 if(!firstEffect){
-    oneP1.innerHTML = "Musli with Apple & Banana";
-    oneP2.innerHTML = "Rice with Lensel or etc...";
-    oneP3.innerHTML = "Soupe / bread";
+    oneP1.innerHTML = "Cereals with Apple & Banana";
+    oneP2.innerHTML = "Rice with vegetables";
+    oneP3.innerHTML = "Lentil soup/bread";
     day1.style.background = "rgba(75,7,36, .5)";
     day1.style.borderBottom = "5px solid silver";
     day1.style.background = "rgba(75,7,36, .5)";
@@ -262,50 +262,3 @@ if(!seventhEffect){
 
  
 
-//monday breakfast
-/* let firstDay = document.querySelector('.day1'); 
-firstDay.addEventListener("click", firstF1);
-let effect1 = true;
-function firstF1(){
-    effect1 = !effect1;
-    if(!effect1){
-        firstDay.innerHTML = "Musli with banana & apple";
-        firstDay.style.background = "rgba(75,7,36, .5)";
-        firstDay.style.borderBottom = "5px solid silver";
-        firstDay.style.background = "rgba(75,7,36, .5)";
-        firstDay.style.color = "white";
-    } else if(effect1){
-        document.location.reload();
-    };
-}
-//monday lunch
-let firstDay1 = document.querySelector('.day1_1');
-firstDay1.addEventListener("click", firstF2);
- let effect1_1 = true;
- function firstF2(){
-    effect1_1 = ! effect1_1;
-    if(!effect1_1){
-        firstDay1.innerHTML = "rice with Linsel etc.";
-        firstDay1.style.background = "rgba(75,7,36, .5)";
-        firstDay1.style.borderBottom = "5px solid silver";
-        firstDay1.style.color = "white";
-    } else if (effect1_1){
-        document.location.reload();
-    }
- }
- //monday dinner
- let firstDay2 = document.querySelector('.day1_2');
- firstDay2.addEventListener("click", firstDay3);
- let effect1_2 = true;
- function firstDay3(){
-     effect1_2 = !effect1_2;
-     if(!effect1_2){
-         firstDay2.innerHTML = "Soupe with bread";
-         firstDay2.style.background = "rgba(75,7,36, .5)";
-        firstDay2.style.borderBottom = "5px solid silver";
-        firstDay2.style.color = "white";
-     } else if(effect1_2){
-         document.location.reload();
-     }
- }
- */
