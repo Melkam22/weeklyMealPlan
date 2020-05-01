@@ -35,7 +35,12 @@ if(!firstEffect){
     day1_2.style.color = "white";
     day1_2.style.padding = "0px 20px";
 } else if(firstEffect){
-    document.location.reload();
+    oneP1.innerHTML = "Monday Breakfast";
+    oneP2.innerHTML = "Monday Lunch";
+    oneP3.innerHTML = "Monday Dinner";
+    day1.style.background = "rgba(33,3,74,.5)";
+    day1_1.style.background = "rgba(33,3,74,.5)";
+    day1_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 //Tuesday's function
@@ -75,7 +80,12 @@ if(!secondEffect){
     day2_2.style.color = "white";
     day2_2.style.padding = "0px 20px";
 } else if(secondEffect){
-    document.location.reload();
+    twoP1.innerHTML = "Tuesday Breakfast";
+    twoP2.innerHTML = "Tuesday Lunch";
+    twoP3.innerHTML = "Tuesday Dinner";
+    day2.style.background = "rgba(33,3,74,.5)";
+    day2_1.style.background = "rgba(33,3,74,.5)";
+    day2_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 //Wednesday's function
@@ -115,7 +125,12 @@ if(!thirdEffect){
     day3_2.style.color = "white";
     day3_2.style.padding = "0px 20px";
 } else if(thirdEffect){
-    document.location.reload();
+    threeP1.innerHTML = "Wednesday Breakfast";
+    threeP2.innerHTML = "Wednesday Lunch";
+    threeP3.innerHTML = "Wednesday Dinner";
+    day3.style.background = "rgba(33,3,74,.5)";
+    day3_1.style.background = "rgba(33,3,74,.5)";
+    day3_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 //Thursday's function
@@ -155,7 +170,12 @@ if(!fourthEffect){
     day4_2.style.color = "white";
     day4_2.style.padding = "0px 20px";
 } else if(fourthEffect){
-    document.location.reload();
+    fourP1.innerHTML = "Thursday Breakfast";
+    fourP2.innerHTML = "Thursday Lunch";
+    fourP3.innerHTML = "Thursday Dinner";
+    day4.style.background = "rgba(33,3,74,.5)";
+    day4_1.style.background = "rgba(33,3,74,.5)";
+    day4_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 //Friday's function
@@ -195,7 +215,12 @@ if(!fivthEffect){
     day5_2.style.color = "white";
     day5_2.style.padding = "0px 20px";
 } else if(fivthEffect){
-    document.location.reload();
+    fiveP1.innerHTML = "Friday Breakfast";
+    fiveP2.innerHTML = "Friday Lunch";
+    fiveP3.innerHTML = "Friday Dinner";
+    day5.style.background = "rgba(33,3,74,.5)";
+    day5_1.style.background = "rgba(33,3,74,.5)";
+    day5_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 //Saturday's function
@@ -235,7 +260,12 @@ if(!sixthEffect){
     day6_2.style.color = "white";
     day6_2.style.padding = "0px 20px";
 } else if(sixthEffect){
-    document.location.reload();
+    sixP1.innerHTML = "Saturday Breakfast";
+    sixP2.innerHTML = "Saturday Lunch";
+    sixP3.innerHTML = "Saturday Dinner";
+    day6.style.background = "rgba(33,3,74,.5)";
+    day6_1.style.background = "rgba(33,3,74,.5)";
+    day6_2.style.background = "rgba(33,3,74,.5)";
 }
 }
 
